@@ -32,7 +32,7 @@
    - **Resolution:** Valthor's story provides context for his actions, helping the players understand the personal and emotional reasons behind his plan.
 
 3. **The Plan:**
-   - **Description:** Valthor outlines his plan to steal the Heartstone during the Dragon Festival. He explains the importance of the Heartstone in maintaining the balance of magic in Draconia and how its power is being wasted by simply maintaining balance. Valthor believes that the Heartstone can be used to achieve greater things, such as unlocking forbidden magics and gaining ultimate control over the land.
+   - **Description:** Valthor outlines his plan to steal the Heartstone during the Dragon Festival in **ten** days. He explains the importance of the Heartstone in maintaining the balance of magic in Draconia and how its power is being wasted by simply maintaining balance. Valthor believes that the Heartstone can be used to achieve greater things, such as unlocking forbidden magics and gaining ultimate control over the land.
    - **Challenge:** The players must grasp the complexity of the plan and the risks involved. They may need to ask questions to clarify specific details or express concerns about the potential consequences.
    - **Resolution:** Valthor provides detailed answers to the players' questions, addressing their concerns and emphasizing the potential rewards of their mission.
 
@@ -45,6 +45,11 @@
    - **Description:** Valthor asks the players if they are fully committed to the mission. He emphasizes the importance of their roles and the need for absolute trust and cooperation. Valthor assures them that their efforts will be rewarded and that they will be remembered as the architects of a new era for Draconia.
    - **Challenge:** The players must make a final decision about their commitment to the mission. They need to consider the risks, the potential rewards, and their own moral beliefs.
    - **Resolution:** The players express their commitment to the mission, feeling a sense of purpose and determination. They understand the gravity of their actions but are motivated by the vision of a better future.
+
+6. **The Plan:**
+   - **Description:** Valthor explains that the clerics of the Temple have never needed to be overly suspicious, but he cannot accompany the party because he is banished and known to the acolytes and so would endanger the mission. He provides the players with a map of the village. The map shows the village with the location of the Temple marked out. He also provides a separate map showing the grounds of the Temple. Valthor explains the Heartstone is often off-limits to the public but on certain days and during the Festival, it would be presented to the public for worship. Anyone can enter the stone's chamber, though it is under guard. Valthor feels the Festival may present unique opportunities to take the stone and that the party should go to the site, plan the job and come back with the Heartstone.
+   - **Challenge:** The players must discuss and agree on a course of action.
+   - **Resolution:** The players come to agreement and progress towards Drakenshire.
 
 ### Conclusion
 
@@ -73,6 +78,7 @@ This encounter provides a deep and engaging introduction to Valthor's plan and m
    - **Description:** The players have the option to explore the village and the festival. They can participate in various activities, such as games, dancing, and feasting, to gather information and create distractions.
    - **Challenge:** The players must balance their desire to gather information and create opportunities with the need to remain inconspicuous. They can use their skills to eavesdrop on conversations, observe the guards' routines, and identify potential allies or threats.
    - **Resolution:** The players gather valuable information about the guards' patrols, the layout of the temple, and any potential obstacles they might face. They also create opportunities for distractions, such as setting up a fireworks display or causing a commotion in the village square.
+   - [**Festival Encounters**](../call_to_adventure/README.md#official-festival-activities): Canned festival encounters from the main campaign can be used for this part of the session.
 
 3. **Proceeding to the Temple:**
    - **Description:** The players can choose to proceed directly to the Temple of Eldara, using the cover of the festival to approach the temple unnoticed. They must navigate through the crowded streets and avoid drawing attention to themselves.
@@ -93,78 +99,139 @@ This encounter provides a deep and engaging introduction to Valthor's plan and m
 
 This encounter provides the players with the opportunity to explore the village of Drakenshire and the Dragon Festival, gathering valuable information and creating opportunities for their mission. By giving the players the option to proceed directly to the temple or to explore the village, the encounter emphasizes the importance of strategic planning, adaptability, and quick decision-making. The players learn that sometimes taking the time to gather information and create opportunities can be as important as the mission itself, setting the stage for a successful heist and the challenges that lie ahead.
 
-## Encounter: "Getting Past the Guards"
+## Encounter: Heist of the Heartstone
 
-**Setting:** The perimeter of the Temple of Eldara, during the night of the Dragon Festival
+Whether through luck or skill, the players arrive at one of three plausible ways to steal the Heartstone and get away.
 
-**Description:** Kara Nightshade, Thorn Ironclaw, and Mira Frostscale must get past the guards stationed around the Temple of Eldara to reach the Heartstone. The temple is heavily guarded due to the importance of the artifact, and the guards are vigilant.
+1. **Scenario 1: The Festival Distraction**
+   - **Description:** During the height of the Dragon Festival, the village square is filled with villagers participating in games, dancing, and feasting. The temple is open to the public, and the Heartstone is on display under heavy guard.
+   - **Opportunity:** The players can use the chaos and excitement of the festival to create a distraction. They might set off fireworks, cause a commotion in the village square, or use illusion magic to draw the guards' attention away from the Heartstone.
+   - **Execution:** While the guards are distracted, the players can slip into the temple, bypass any remaining defenses, and steal the Heartstone. They must then use the cover of the festival to blend back into the crowd and make their escape.
 
-**Challenge:** The players must use stealth, deception, and their unique skills to bypass the guards without raising an alarm. This encounter tests their ability to work together and think creatively to overcome obstacles.
+2. **Scenario 2: The Changing of the Guard**
+   - **Description:** The guards at the Temple of Eldara change shifts at regular intervals. During the changing of the guard, there is a brief window of time when the temple is less heavily guarded.
+   - **Opportunity:** The players can time their approach to coincide with the changing of the guard. They might use stealth to approach the temple unnoticed, or they could create a minor distraction to delay the new guards from taking their posts.
+   - **Execution:** During the brief window of reduced security, the players can enter the temple, bypass any remaining defenses, and steal the Heartstone. They must then quickly and quietly make their escape before the new guards realize what has happened.
 
-**Lesson:** This encounter emphasizes the importance of teamwork, planning, and adaptability. The players learn that even the best-laid plans require flexibility and quick thinking.
+3. **Scenario 3: The Festival Performance**
+   - **Description:** Zara Emberclaw is scheduled to perform a magic show as part of the Dragon Festival celebrations. The performance draws a large crowd, including many of the temple guards who are eager to see the show.
+   - **Opportunity:** The players can use Zara's performance as a cover for their heist. They might coordinate with Zara to include specific illusions or distractions in her show, or they could use the performance as a signal to begin their mission.
+   - **Execution:** While the guards and villagers are focused on Zara's performance, the players can enter the temple, bypass any remaining defenses, and steal the Heartstone. They must then use the cover of the performance to blend back into the crowd and make their escape.
 
-### Encounter Outline
+### Scenario 1: The Festival Distraction
 
-1. **Scouting the Area:**
-   - **Description:** The players observe the temple from a hidden vantage point, noting the positions and routines of the guards. They see Thalor Brightscale among the guards, adding an extra layer of challenge.
-   - **Challenge:** The players must gather information without being detected. They can use Kara's stealth abilities, Thorn's tactical knowledge, and Mira's magical senses to assess the situation.
-   - **Resolution:** The players successfully gather information about the guards' patrol routes, shifts, and any potential weak points in the security.
+**Setting:** The village square and the Temple of Eldara during the height of the Dragon Festival
 
-2. **Creating a Distraction:**
-   - **Description:** To create an opportunity to slip past the guards, the players decide to create a distraction. They can choose from various methods, such as setting off a small explosion, causing a commotion in the village, or using illusion magic.
-   - **Challenge:** The players must execute their distraction plan without drawing attention to themselves. They need to coordinate their actions and ensure the distraction is effective.
-   - **Resolution:** The players successfully create a distraction, drawing some of the guards away from their posts and creating an opening for them to approach the temple.
+**Description:** The village square is bustling with activity as villagers participate in games, dancing, and feasting. The Heartstone is on display in the Temple of Eldara, under heavy guard. The players must create a distraction to draw the guards away from the temple and steal the Heartstone.
 
-3. **Sneaking Past the Guards:**
-   - **Description:** With the distraction in place, the players must now sneak past the remaining guards. They need to move quietly and avoid detection as they make their way to the temple entrance.
-   - **Challenge:** The players must use their stealth skills to avoid being seen or heard. They can use Kara's expertise in sneaking, Thorn's ability to move silently in armor, and Mira's invisibility spells.
-   - **Resolution:** The players successfully sneak past the guards and reach the entrance of the temple, ready to proceed with their mission.
+**Challenge:** The players must use their skills to create an effective distraction and then quickly and stealthily steal the Heartstone while the guards are distracted.
 
-4. **Dealing with Obstacles:**
-   - **Description:** As they approach the temple entrance, the players encounter additional obstacles, such as locked doors, magical wards, and traps.
-   - **Challenge:** The players must use their skills to bypass these obstacles. Kara can pick locks, Thorn can disarm traps, and Mira can dispel magical wards.
-   - **Resolution:** The players successfully bypass the obstacles and enter the temple, ready to face the next challenge.
-
-## Encounter: "Inside the Temple of Eldara"
-
-**Setting:** The interior of the Temple of Eldara, a sacred and ancient structure filled with magical defenses and the resting place of the Heartstone
-
-**Description:** Inside the temple, the players must navigate through a series of chambers and overcome various defenses to reach the Heartstone. The temple is designed to protect the artifact from intruders, with traps, puzzles, and magical guardians.
-
-**Challenge:** The players must use their wits, skills, and teamwork to overcome the temple's defenses and retrieve the Heartstone. This encounter tests their problem-solving abilities and their capacity to work together under pressure.
-
-**Lesson:** This encounter emphasizes the importance of intelligence, resourcefulness, and collaboration. The players learn that achieving their goals requires more than just brute force; it requires careful planning and execution.
+**Lesson:** This encounter emphasizes the importance of creativity, teamwork, and quick thinking. The players learn that sometimes the best way to achieve a goal is to create opportunities through clever distractions.
 
 ### Encounter Outline
 
-1. **Navigating the Chambers:**
-   - **Description:** The players enter the first chamber of the temple, which is filled with intricate carvings and glowing runes. The chamber has multiple exits, each leading to different parts of the temple.
-   - **Challenge:** The players must choose the correct path to proceed. They can use Mira's knowledge of ancient runes, Kara's keen observation skills, and Thorn's sense of direction to make their decision.
-   - **Resolution:** The players successfully navigate the chambers, avoiding dead ends and traps, and make their way deeper into the temple.
+1. **Creating the Distraction:**
+   - **Description:** The players decide to set off fireworks in the village square to create a loud and colorful distraction. They gather the necessary materials and find a suitable location to set up the fireworks.
+   - **Challenge:** The players must set up the fireworks without drawing attention to themselves. They can use Kara's stealth abilities, Thorn's strength to carry the materials, and Mira's magic to enhance the fireworks.
+   - **Resolution:** The players successfully set up the fireworks and set them off, creating a loud and colorful display that draws the attention of the villagers and guards.
 
-2. **Disarming Traps:**
-   - **Description:** The players encounter a series of traps designed to protect the Heartstone. These traps include pressure plates, hidden spikes, and magical wards.
-   - **Challenge:** The players must disarm the traps without triggering them. Kara can use her expertise in trap disarming, Thorn can use his strength to hold mechanisms in place, and Mira can use her magic to neutralize wards.
-   - **Resolution:** The players successfully disarm the traps and continue their journey through the temple.
+2. **Approaching the Temple:**
+   - **Description:** With the guards distracted by the fireworks, the players make their way to the Temple of Eldara. They must move quickly and quietly to avoid being seen.
+   - **Challenge:** The players must use their stealth skills to approach the temple without being detected. They can use Kara's expertise in sneaking, Thorn's ability to move silently in armor, and Mira's invisibility spells.
+   - **Resolution:** The players successfully approach the temple and enter without being detected.
 
-3. **Solving Puzzles:**
-   - **Description:** The players reach a chamber with a complex puzzle that must be solved to proceed. The puzzle involves arranging ancient symbols in the correct order to unlock a door.
-   - **Challenge:** The players must use their intelligence and teamwork to solve the puzzle. Mira can use her knowledge of ancient symbols, Kara can use her problem-solving skills, and Thorn can provide insights based on his tactical experience.
-   - **Resolution:** The players successfully solve the puzzle, unlocking the door and gaining access to the inner sanctum of the temple.
+3. **Bypassing the Defenses:**
+   - **Description:** Inside the temple, the players encounter additional defenses, such as locked doors, magical wards, and traps. They must bypass these defenses to reach the Heartstone.
+   - **Challenge:** The players must use their skills to bypass the defenses. Kara can pick locks, Thorn can disarm traps, and Mira can dispel magical wards.
+   - **Resolution:** The players successfully bypass the defenses and reach the Heartstone.
 
-4. **Facing the Guardian:**
-   - **Description:** The players enter the inner sanctum, where the Heartstone is kept. They are confronted by a magical guardian, a powerful construct designed to protect the artifact.
-   - **Challenge:** The players must defeat or bypass the guardian to reach the Heartstone. They can choose to fight the guardian, use stealth to avoid it, or find a way to deactivate it.
-   - **Resolution:** The players successfully deal with the guardian, either by defeating it in combat, sneaking past it, or deactivating it using their skills and knowledge.
-
-5. **Retrieving the Heartstone:**
-   - **Description:** The players finally reach the pedestal where the Heartstone rests. The artifact radiates powerful magic, and the players feel its significance.
+4. **Stealing the Heartstone:**
+   - **Description:** The players carefully retrieve the Heartstone from its pedestal. The artifact radiates powerful magic, and the players feel its significance.
    - **Challenge:** The players must carefully retrieve the Heartstone without triggering any final defenses. They need to use their combined skills to ensure the artifact is safely taken.
-   - **Resolution:** The players successfully retrieve the Heartstone, feeling a mix of triumph and trepidation. They know that their mission is not yet complete, and they must now escape the temple and deliver the artifact to Valthor.
+   - **Resolution:** The players successfully retrieve the Heartstone and make their way out of the temple.
+
+5. **Escaping the Village:**
+   - **Description:** With the Heartstone in their possession, the players must escape the village without being detected. They can use the ongoing festival as cover to blend back into the crowd.
+   - **Challenge:** The players must use their stealth and cunning to escape the village. They can take advantage of the distractions they created earlier or use the festival's chaos to slip away.
+   - **Resolution:** The players successfully escape the village with the Heartstone, ready to deliver it to Valthor.
+
+### Scenario 2: The Changing of the Guard
+
+**Setting:** The perimeter of the Temple of Eldara during the changing of the guard
+
+**Description:** The guards at the Temple of Eldara change shifts at regular intervals. During the changing of the guard, there is a brief window of time when the temple is less heavily guarded. The players must time their approach to coincide with this window and steal the Heartstone.
+
+**Challenge:** The players must use their skills to time their approach perfectly and then quickly and stealthily steal the Heartstone while the guards are changing shifts.
+
+**Lesson:** This encounter emphasizes the importance of timing, precision, and quick decision-making. The players learn that sometimes the best way to achieve a goal is to take advantage of brief windows of opportunity.
+
+### Encounter Outline
+
+1. **Timing the Approach:**
+   - **Description:** The players observe the guards' routines and identify the exact time when the guards change shifts. They plan their approach to coincide with this brief window of reduced security.
+   - **Challenge:** The players must time their approach perfectly to avoid being seen by the guards. They can use Kara's keen observation skills, Thorn's tactical knowledge, and Mira's magical senses to ensure their timing is precise.
+   - **Resolution:** The players successfully time their approach and move towards the temple during the changing of the guard.
+
+2. **Approaching the Temple:**
+   - **Description:** With the guards changing shifts, the players make their way to the Temple of Eldara. They must move quickly and quietly to avoid being seen.
+   - **Challenge:** The players must use their stealth skills to approach the temple without being detected. They can use Kara's expertise in sneaking, Thorn's ability to move silently in armor, and Mira's invisibility spells.
+   - **Resolution:** The players successfully approach the temple and enter without being detected.
+
+3. **Bypassing the Defenses:**
+   - **Description:** Inside the temple, the players encounter additional defenses, such as locked doors, magical wards, and traps. They must bypass these defenses to reach the Heartstone.
+   - **Challenge:** The players must use their skills to bypass the defenses. Kara can pick locks, Thorn can disarm traps, and Mira can dispel magical wards.
+   - **Resolution:** The players successfully bypass the defenses and reach the Heartstone.
+
+4. **Stealing the Heartstone:**
+   - **Description:** The players carefully retrieve the Heartstone from its pedestal. The artifact radiates powerful magic, and the players feel its significance.
+   - **Challenge:** The players must carefully retrieve the Heartstone without triggering any final defenses. They need to use their combined skills to ensure the artifact is safely taken.
+   - **Resolution:** The players successfully retrieve the Heartstone and make their way out of the temple.
+
+5. **Escaping the Village:**
+   - **Description:** With the Heartstone in their possession, the players must escape the village without being detected. They can use the ongoing festival as cover to blend back into the crowd.
+   - **Challenge:** The players must use their stealth and cunning to escape the village. They can take advantage of the distractions they created earlier or use the festival's chaos to slip away.
+   - **Resolution:** The players successfully escape the village with the Heartstone, ready to deliver it to Valthor.
+
+### Scenario 3: The Festival Performance
+
+**Setting:** The village square and the Temple of Eldara during Zara Emberclaw's magic show
+
+**Description:** Zara Emberclaw is scheduled to perform a magic show as part of the Dragon Festival celebrations. The performance draws a large crowd, including many of the temple guards who are eager to see the show. The players must use Zara's performance as a cover for their heist.
+
+**Challenge:** The players must coordinate with Zara to use her performance as a distraction and then quickly and stealthily steal the Heartstone while the guards are focused on the show.
+
+**Lesson:** This encounter emphasizes the importance of coordination, creativity, and quick thinking. The players learn that sometimes the best way to achieve a goal is to use coordinated distractions to create opportunities.
+
+### Encounter Outline
+
+1. **Coordinating with Zara:**
+   - **Description:** The players meet with Zara before her performance to coordinate their plan. They discuss how Zara can use specific illusions or distractions in her show to draw the guards' attention away from the temple.
+   - **Challenge:** The players must ensure that their plan is well-coordinated and that Zara understands her role in creating the distraction.
+   - **Resolution:** Zara agrees to help and incorporates the necessary illusions and distractions into her performance.
+
+2. **Creating the Distraction:**
+   - **Description:** Zara's magic show begins, drawing a large crowd of villagers and guards. The performance includes dazzling illusions, colorful lights, and impressive magical feats.
+   - **Challenge:** The players must use the distraction created by Zara's performance to approach the temple unnoticed. They can use Kara's stealth abilities, Thorn's ability to move silently in armor, and Mira's invisibility spells.
+   - **Resolution:** The players successfully approach the temple while the guards are focused on Zara's performance.
+
+3. **Bypassing the Defenses:**
+   - **Description:** Inside the temple, the players encounter additional defenses, such as locked doors, magical wards, and traps. They must bypass these defenses to reach the Heartstone.
+   - **Challenge:** The players must use their skills to bypass the defenses. Kara can pick locks, Thorn can disarm traps, and Mira can dispel magical wards.
+   - **Resolution:** The players successfully bypass the defenses and reach the Heartstone.
+
+4. **Stealing the Heartstone:**
+   - **Description:** The players carefully retrieve the Heartstone from its pedestal. The artifact radiates powerful magic, and the players feel its significance.
+   - **Challenge:** The players must carefully retrieve the Heartstone without triggering any final defenses. They need to use their combined skills to ensure the artifact is safely taken.
+   - **Resolution:** The players successfully retrieve the Heartstone and make their way out of the temple.
+
+5. **Escaping the Village:**
+   - **Description:** With the Heartstone in their possession, the players must escape the village without being detected. They can use the ongoing festival and Zara's performance as cover to blend back into the crowd.
+   - **Challenge:** The players must use their stealth and cunning to escape the village. They can take advantage of the distractions created by Zara's performance to slip away.
+   - **Resolution:** The players successfully escape the village with the Heartstone, ready to deliver it to Valthor.
 
 ### Conclusion
 
-These encounters provide a thrilling and challenging experience for the thief characters, testing their skills, intelligence, and teamwork. By getting past the guards and navigating the defenses inside the Temple of Eldara, Kara, Thorn, and Mira demonstrate their resourcefulness and determination. These encounters set the stage for the main campaign, where the consequences of their actions will unfold and the players will face the moral and ethical dilemmas of their mission.
+These encounters provide the players with multiple plausible opportunities to steal the Heartstone during the Dragon Festival. By emphasizing the importance of strategic planning, coordination, and quick decision-making, the encounters create a dynamic and engaging experience for the players. The players learn that achieving their goals requires careful planning, teamwork, and the ability to take advantage of opportunities as they arise.
 
 ## Aftermath Encounter 1: "Success and Praise"
 
